@@ -1,0 +1,11 @@
+C:\Users\dell\Desktop\formation C++\level18\FullProject\bin\Debug\FullProject.exe.config
+C:\Users\dell\Desktop\formation C++\level18\FullProject\bin\Debug\FullProject.exe
+C:\Users\dell\Desktop\formation C++\level18\FullProject\bin\Debug\FullProject.pdb
+C:\Users\dell\Desktop\formation C++\level18\FullProject\obj\Debug\FullProject.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\formation C++\level18\FullProject\obj\Debug\FullProject.Properties.Resources.resources
+C:\Users\dell\Desktop\formation C++\level18\FullProject\obj\Debug\FullProject.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\formation C++\level18\FullProject\obj\Debug\FullProject.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\formation C++\level18\FullProject\obj\Debug\FullProject.exe
+C:\Users\dell\Desktop\formation C++\level18\FullProject\obj\Debug\FullProject.pdb
+C:\Users\dell\Desktop\formation C++\level18\FullProject\obj\Debug\FullProject.exe.config
+C:\Users\dell\Desktop\formation C++\level18\FullProject\obj\Debug\FullProject.PersonDisplayControle.resources

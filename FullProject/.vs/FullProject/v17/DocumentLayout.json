@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\Desktop\\formation C\u002B\u002B\\level19\\FullProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80D1705E-1CB0-413D-8E67-217431637CA2}|FullProject.csproj|c:\\users\\dell\\desktop\\formation c\u002B\u002B\\level19\\fullproject\\userdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{80D1705E-1CB0-413D-8E67-217431637CA2}|FullProject.csproj|solutionrelative:userdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D1705E-1CB0-413D-8E67-217431637CA2}|FullProject.csproj|C:\\Users\\dell\\Desktop\\formation C\u002B\u002B\\level19\\FullProject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{80D1705E-1CB0-413D-8E67-217431637CA2}|FullProject.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D1705E-1CB0-413D-8E67-217431637CA2}|FullProject.csproj|C:\\Users\\dell\\Desktop\\formation C\u002B\u002B\\level19\\FullProject\\userdisplay.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D1705E-1CB0-413D-8E67-217431637CA2}|FullProject.csproj|solutionrelative:userdisplay.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D1705E-1CB0-413D-8E67-217431637CA2}|FullProject.csproj|C:\\Users\\dell\\Desktop\\formation C\u002B\u002B\\level19\\FullProject\\userdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D1705E-1CB0-413D-8E67-217431637CA2}|FullProject.csproj|solutionrelative:userdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\formation C\u002B\u002B\\level19\\FullProject\\UserDisplay.cs",
+              "RelativeDocumentMoniker": "UserDisplay.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\formation C\u002B\u002B\\level19\\FullProject\\UserDisplay.cs",
+              "RelativeToolTip": "UserDisplay.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:26:43.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserDisplay.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\formation C\u002B\u002B\\level19\\FullProject\\UserDisplay.cs",
+              "RelativeDocumentMoniker": "UserDisplay.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\formation C\u002B\u002B\\level19\\FullProject\\UserDisplay.cs [Design]",
+              "RelativeToolTip": "UserDisplay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:18:55.661Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDisplay.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\formation C\u002B\u002B\\level19\\FullProject\\UserDisplay.Designer.cs",
+              "RelativeDocumentMoniker": "UserDisplay.Designer.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\formation C\u002B\u002B\\level19\\FullProject\\UserDisplay.Designer.cs",
+              "RelativeToolTip": "UserDisplay.Designer.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAqwM0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:26:50.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\formation C\u002B\u002B\\level19\\FullProject\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\formation C\u002B\u002B\\level18\\FullProject\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\level18\\FullProject\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:32:55.391Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

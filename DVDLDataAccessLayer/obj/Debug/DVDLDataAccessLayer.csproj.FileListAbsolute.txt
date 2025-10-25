@@ -1,0 +1,12 @@
+C:\Users\dell\Desktop\formation C++\level19\DVDLDataAccessLayer\bin\Debug\DVDLDataAccessLayer.dll
+C:\Users\dell\Desktop\formation C++\level19\DVDLDataAccessLayer\bin\Debug\DVDLDataAccessLayer.pdb
+C:\Users\dell\Desktop\formation C++\level19\DVDLDataAccessLayer\obj\Debug\DVDLDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\formation C++\level19\DVDLDataAccessLayer\obj\Debug\DVDLDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\formation C++\level19\DVDLDataAccessLayer\obj\Debug\DVDLDataAccessLayer.dll
+C:\Users\dell\Desktop\formation C++\level19\DVDLDataAccessLayer\obj\Debug\DVDLDataAccessLayer.pdb
+D:\Projects\formation C++\level19\DVDLDataAccessLayer\bin\Debug\DVDLDataAccessLayer.dll
+D:\Projects\formation C++\level19\DVDLDataAccessLayer\bin\Debug\DVDLDataAccessLayer.pdb
+D:\Projects\formation C++\level19\DVDLDataAccessLayer\obj\Debug\DVDLDataAccessLayer.csproj.AssemblyReference.cache
+D:\Projects\formation C++\level19\DVDLDataAccessLayer\obj\Debug\DVDLDataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Projects\formation C++\level19\DVDLDataAccessLayer\obj\Debug\DVDLDataAccessLayer.dll
+D:\Projects\formation C++\level19\DVDLDataAccessLayer\obj\Debug\DVDLDataAccessLayer.pdb
