@@ -35,6 +35,7 @@ namespace Presentation
         private void signOutToolStripMenuItem_Click(object sender, EventArgs e)
         {
             ClsCurrentUserInfo.Clear();
+
             _frmLogin.Show();
             this.Close();
         }
