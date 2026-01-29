@@ -13,12 +13,15 @@ namespace Presentation
 {
     public partial class Form1 : Form
     {
-        
-        frmLoginScreen _frmLogin;
-        public Form1(frmLoginScreen frmLogin)
+        //declare a delegate
+        public delegate void DataBackEventHandler(object sender);//sameha kima t7eb just declaration 
+
+        //declare an event using the delegate
+        public event EventHandler DataBack;
+        public Form1()
         {
             InitializeComponent();
-            _frmLogin = frmLogin;
+            
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -35,8 +38,7 @@ namespace Presentation
         private void signOutToolStripMenuItem_Click(object sender, EventArgs e)
         {
             ClsCurrentUserInfo.Clear();
-
-            _frmLogin.Show();
+            DataBack?.Invoke(this, EventArgs.Empty);
             this.Close();
         }
 
@@ -137,7 +139,7 @@ namespace Presentation
 
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
-            Application.Exit();
+            //Application.Exit();
         }
     }
 }

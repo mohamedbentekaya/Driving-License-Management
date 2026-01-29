@@ -189,8 +189,10 @@ namespace Presentation
                     }
                     SetCurrentUserInfo(_User);
                     // Open main form
-                    this.Hide();
-                    Form1 form1 = new Form1(this);
+                    //this.Hide();
+                    //Form1 form1 = new Form1(this);
+                    Form1 form1 = new Form1();
+                    form1.DataBack += frmLoginScreen_Load;
                     form1.ShowDialog();
                     
                 }
