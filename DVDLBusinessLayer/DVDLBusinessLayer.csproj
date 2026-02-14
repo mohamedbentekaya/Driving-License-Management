@@ -44,6 +44,8 @@
     <Compile Include="Application.cs" />
     <Compile Include="ApplicationType.cs" />
     <Compile Include="Class1.cs" />
+    <Compile Include="ClsEventLogBusiness.cs" />
+    <Compile Include="ClsHashingBusiness.cs" />
     <Compile Include="Country.cs" />
     <Compile Include="CurrentUserInfo.cs" />
     <Compile Include="DetainedLicense.cs" />

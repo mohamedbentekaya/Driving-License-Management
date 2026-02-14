@@ -73,9 +73,11 @@ namespace DVDLDataAccessLayer
 
             SqlCommand command = new SqlCommand(query, connection);
 
+            string Hashed_Password = ClsHashing.ComputeHash(Password);
+
             command.Parameters.AddWithValue("@PersonID", PersonID);
             command.Parameters.AddWithValue("@UserName", UserName);
-            command.Parameters.AddWithValue("@Password", Password);
+            command.Parameters.AddWithValue("@Password", Hashed_Password);
             command.Parameters.AddWithValue("@IsActive", IsActive);
             try
             {
@@ -117,10 +119,12 @@ namespace DVDLDataAccessLayer
 
             SqlCommand command = new SqlCommand(query, connection);
 
+            string Hashed_Password = ClsHashing.ComputeHash(Password);
+
             command.Parameters.AddWithValue("@UserID", ID);
             command.Parameters.AddWithValue("@PersonID", PersonID);
             command.Parameters.AddWithValue("@UserName", UserName);
-            command.Parameters.AddWithValue("@Password", Password);
+            command.Parameters.AddWithValue("@Password", Hashed_Password);
             command.Parameters.AddWithValue("@IsActive", IsActive);
             try
             {

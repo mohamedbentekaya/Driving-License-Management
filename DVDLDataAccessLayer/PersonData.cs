@@ -316,7 +316,7 @@ namespace DVDLDataAccessLayer
             }
             catch (Exception ex)
             {
-                //Console.WriteLine("Error"+ex.Message);
+                ClsEventLog.ErrorEventLog(ex.Message);
             }
             finally
             {

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -8,6 +9,6 @@ namespace DVDLDataAccessLayer
 {
     internal class ClsDataAccessSettings
     {
-        public static string ConnectionString = "Server=.;Database=DVLD;User Id=sa;Password=123456;";
+        public static string ConnectionString = ConfigurationManager.ConnectionStrings["MyDbConnection"].ConnectionString;
     }
 }
